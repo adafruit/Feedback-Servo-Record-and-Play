@@ -1,4 +1,9 @@
-Example code for recording and playing back servo motion with a 
-analog feedback servo
+This code  has moved! It now lives here
 
-http://www.adafruit.com/products/1404
+https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/Feedback_Servo_Record_and_Play
+
+and
+
+as part of this guide
+
+https://learn.adafruit.com/analog-feedback-servos/
